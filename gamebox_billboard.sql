@@ -11,4 +11,4 @@ INSERT INTO `gamebox_billboard` VALUES ('6', '五花八门', '17,18,22,24', '50'
 INSERT INTO `gamebox_billboard` VALUES ('7', '其它', '23,25,21,20', '20', '0', '2018-06-21 10:28:22', '2018-06-21 10:28:22', '', '');
 INSERT INTO `gamebox_billboard` VALUES ('8', '精选回顾', '28,31,33', '10', '0', '2018-06-21 10:28:22', '2018-06-21 10:28:22', '', '');
 
-test11
+test22
